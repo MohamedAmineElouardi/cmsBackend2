@@ -134,3 +134,4 @@ C:\Users\maelouardi\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.
 C:\Users\maelouardi\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\CmsBackend.pdb
 C:\Users\maelouardi\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\CmsBackend.genruntimeconfig.cache
 C:\Users\maelouardi\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\CmsBackend.dll
+C:\Users\maelouardi\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\CmsBackend.sourcelink.json
